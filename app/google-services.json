@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276652336081",
+    "firebase_url": "https://ladiesproblems-39a5f.firebaseio.com",
+    "project_id": "ladiesproblems-39a5f",
+    "storage_bucket": "ladiesproblems-39a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276652336081:android:302ebcf40dc72720",
+        "android_client_info": {
+          "package_name": "com.example.franz.ladiesproblems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276652336081-l42qg5dqrijb35g5smij94aqq461mlmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.franz.ladiesproblems",
+            "certificate_hash": "428982d1b866a744dc716b69bcbd608902144a60"
+          }
+        },
+        {
+          "client_id": "276652336081-urrcducm6svrcff2614gen16j9fuag9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQFrjZUnFdwntiZvqU4Ok7RWaSJJH7FU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276652336081-urrcducm6svrcff2614gen16j9fuag9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
